@@ -1,0 +1,1 @@
+Simple Weather App build using Javascript, HTML/CSS and OpenWeatherMap.

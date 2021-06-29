@@ -13,4 +13,4 @@ User PpenWeatherMap APIs to fetch data and display them.
 ```sh
 npm start
 ```
-![ScreenShot]()
+![ScreenShot](https://github.com/anand434/Weather-App/blob/main/img/img1.JPG)
